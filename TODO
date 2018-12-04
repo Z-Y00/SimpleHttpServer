@@ -1,0 +1,4 @@
+TODO
+*fully support for the thread pool, the current one is guly just to meet the
+    school's requirement of creating a thread for every request.
+---2018.12 GengYu Rao---
